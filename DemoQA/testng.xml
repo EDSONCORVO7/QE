@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Suite" parallel="false">
+    <test name="test">
+        <classes>
+            <class name="tests.AgregarQATests"/>
+            <class name="tests.EditarQATests"/>
+            <class name="tests.EliminarQATests"/>
+        </classes>
+    </test>
+</suite>
